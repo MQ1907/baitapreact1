@@ -4,7 +4,7 @@ import Shop from './Baitaplayoureact1/Shop'
 
 function App (){
     return(
-        <div></div>
+        <Shop/>
     )
 }
 export default  App
